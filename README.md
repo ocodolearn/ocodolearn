@@ -1,6 +1,8 @@
 - 👋 Hi, We’re @ocodolearn - an online/offline training and counselling center for computer education.
 - 👀 Interested in ... coding & general computer skills
-- 📫 Reach me ... ocodolearnhelp@gmail.com
+- 👀 [YouTube](https://www.youtube.com/channel/UChjjGNRoxjOyoy64jinpNPg/)
+- 📫 Email us: ocodolearnhelp@gmail.com
+- 📫 [slack contact](https://ocodolearn.slack.com/archives/C02SC1E96HF)
 
 
 
