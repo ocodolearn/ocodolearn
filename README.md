@@ -1,4 +1,4 @@
-- 👋 Hi, We’re @ocodolearn
+- 👋 Hi, We’re @ocodolearn - an online/offline training and counselling center for computer education.
 - 👀 Interested in ... coding & general computer skills
 - 📫 Reach me ... ocodolearnhelp@gmail.com
 
